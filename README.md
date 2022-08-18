@@ -1,2 +1,2 @@
 # AI-Stratego
-Tentativa de criar inteligencia artificial capaz de jogar stratego sem a utilização de livrarias como tensorflow.
+Tentativa de criar uma inteligência artificial capaz de jogar stratego sem a utilização de livrarias como tensorflow. Havia abandonado devido ao fato que tentava aplicar o conceito de aprendizado de algoritmos genéticos em redes neurais, o que descobri estar muito acima do meu nível de conhecimento especialmente com um jogo tão complexo quanto stratego, talvez volte a tentar futuramente mas como um projeto de paixão.
